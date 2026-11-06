@@ -1,0 +1,8 @@
+total 16
+-rwxrwxrwx 1 lawt lawt 16368 Nov  5 16:05 example
+-rwxrwxrwx 1 lawt lawt   126 Nov  5 16:03 example.cpp
+-rwxrwxrwx 1 lawt lawt    52 Nov  5 16:08 file1.txt
+-rwxrwxrwx 1 lawt lawt    67 Nov  5 16:12 file2.txt
+-rwxrwxrwx 1 lawt lawt    94 Nov  5 16:20 file2_modified.txt
+-rwxrwxrwx 1 lawt lawt     0 Nov  5 16:26 ls_output.txt
+drwxrwxrwx 1 lawt lawt  4096 Nov  5 16:25 sample_folder
